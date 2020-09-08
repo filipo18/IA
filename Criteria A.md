@@ -18,4 +18,10 @@ IF gym club **leader** logs in, they should be able to:
 1. Take attendance for every student
 1. Show attendace statistics for every student
 
+Choosing and justifing a solution
+------------------------------
+My solution will be an online dynamic website built using HTML, Python, Flask and SQLLite. Justification for each of the decisions:
+* **Online dynamic** - It will be accesible to each user online with their phone/computer. This is important because having ofline localy bassed aplication would reqire each student to have access to one shared machine, which would be really inconvinient. Website needs to be dyinamc, because I want each user to see individualized content when they log in. This is imporant, because gym club members can't have overview of each members attendance. This is also necessery for security reasons, as only club leader should be able to take the attendance and decide if absence was excused or unexcused.
+*
+
 
