@@ -20,8 +20,8 @@ IF gym club **leader** logs in, they should be able to:
 
 Choosing and justifing a solution
 ------------------------------
-My solution will be an online dynamic website built using HTML, Python, Flask and SQLLite. Justification for each of the decisions:
+My solution will be an online dynamic website built using HTML5 and bootstrap, Python, Flask and SQLLite. Justification for each of the decisions:
 * **Online dynamic** - It will be accesible to each user online with their phone/computer. This is important because having ofline localy bassed aplication would reqire each student to have access to one shared machine, which would be really inconvinient. Website needs to be dyinamc, because I want each user to see individualized content when they log in. This is imporant, because gym club members can't have overview of each members attendance. This is also necessery for security reasons, as only club leader should be able to take the attendance and decide if absence was excused or unexcused.
-*
-
+* **HTML5 and bootstrap** - I will be using HTML and bootstrap to build the front end of my website. HTML is the most widely spread language for building websited. It can be opened by any internet browser. I will be using bootstrap, because it offers a lot of pre-built website blocks, which can be re-used. This will decreas time I will spend on the front end desing.
+* **Python, Flask and SQLLite** TO build the back end of my website I will be using Flask, which is micro web framework for building websites and servers in python. SQLLite will be used for building a data base. I will be using it because it is already preintegrated in flask. **ADD MORE JUSTIFICATIONS; LOOK AT THE DOCUMENTATIONS; COMAPRE WITH OTHER POSSIBLE SOLUTIONS**
 
